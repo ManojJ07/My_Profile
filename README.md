@@ -9,24 +9,30 @@ I'm a passionate Data Scientist and Analyst with practical experience in Machine
 
 ## 💼 Professional Experience
 
-- Graduate Trainee, Bharat Electronics Limited (Nov 2023 – Present)
+##### Graduate Trainee, Bharat Electronics Limited (November 2023 – Present)
 
-Conducted comprehensive data analysis on training program attendees using Excel, identifying patterns and trends to enhance program effectiveness.
-Managed SAP systems for efficient creation and tracking of Purchase Orders and Requisitions, streamlining procurement processes.
+  - Conducted comprehensive data analysis on training program attendees using Excel, identifying attendance patterns, participant demographics, and feedback trends to provide actionable insights for program enhancement.
+  - Utilized Excel's advanced functions and features to analyze and visualize data, delivering insights that improved program engagement by the organization.
+  - Managed SAP system to efficiently create and track Purchase Orders (PO) and Purchase Requisitions (PR), streamlining procurement processes and reducing order processing time.
 
-- Data Science Intern, Ai Variant (Aug 2022 – May 2023)
 
-Developed a real estate price prediction model with 95% accuracy, aiding stakeholders in data-driven decision-making.
-Automated resume screening using NLP techniques, improving recruitment efficiency by 30%.
+##### Data Science Intern, Ai Variant (August 2022 – May 2023)
 
-- AWS Solutions Architect Intern, Ai Variant (Jan 2022 – Jul 2022)
+  - Conducted real estate market analysis and developed a regression model predicting property sale prices with 84% accuracy, assisting stakeholders in making data-driven business decisions.
+  - Utilized advanced natural language processing (NLP) techniques to automate the resume screening process, improving recruitment efficiency by 30% and accuracy by 20%.
+  - Developed a regression model to predict bike rental demand, optimizing resource allocation by 25% and enhancing customer service satisfaction rates by 15%.
 
-Established a scalable AWS infrastructure, resulting in a 30% improvement in system uptime.
-Created an AWS Lambda solution to optimize EC2 usage, saving the company $10,000 annually.
 
-- Technical Intern, Nano Robotics Embed Technologies (Sep 2021 – Oct 2021)
+##### AWS Solutions Architect Intern, Ai Variant (January 2022 – July 2022)
 
-Programmed and implemented software solutions for embedded devices, enhancing system performance and reliability.
+  - Established a highly available and scalable AWS infrastructure by managing VPC and EC2 services, implementing Elastic Load Balancing, and utilizing autoscaling methods.
+  - Created an automated solution with AWS Lambda to manage EC2 instances, reducing EC2 usage by 20% and optimizing cloud costs.
+
+
+##### Technical Intern, Nano Robotics Embed Technologies (September 2021 – October 2021)
+
+  - Programmed and implemented software solutions for embedded devices, enhancing system performance and reliability.
+  - Designed, developed, coded, tested, and debugged embedded systems, reducing system errors by 15% and improving overall functionality.
 
 ## 📚 Education
 
@@ -36,20 +42,24 @@ CGPA: 7.55
 
 ## 💡 Skills
 
-- Programming Languages: Python, R, MySQL
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-- Cloud Computing: AWS (EC2, S3, RDS, DynamoDB)
-- Machine Learning & AI: TensorFlow, PyTorch, Scikit-learn, NLP (NLTK, SpaCy)
-- Statistical Analysis: Regression, Classification, Clustering, Deep Learning
+- _Programming Languages:_ Python, R, MySQL
+- _Data Visualization and BI Tools:_ Tableau, Power BI, Matplotlib, Seaborn
+- _Cloud Computing:_ AWS (EC2, S3, EBS, RDS, DynamoDB, Redshift)
+- _AWS Networking:_ VPC, Subnets, Route Tables, NAT, VPC Peering
+- _Server Deployment and Automation:_ AWS EC2, CloudFormation, Elastic Beanstalk, Lambda, Autoscaling
+- _Storage and Database Management:_ EBS, S3, Redshift, RDS, DynamoDB
+- _Security and Monitoring:_ IAM, Security Groups, CloudWatch, CloudTrail
+- _Machine Learning and AI:_ Keras, TensorFlow, PyTorch, Scikit-learn, Scikit-image, OpenCV, NLTK, Spacy
+- _Statistical Analysis and Modelling:_ Regression (Linear/Logistic), Classification (Decision Tree/Random Forest/SVM/KNN/Naïve Bayes), Clustering (Hierarchical/K-means), Deep Learning (CNN, RNN, LSTM)
 
 
 ## 📈 Certifications & Courses
 
-- Data Science Master’s Program - ExcelR (NASSCOM Accredited)
-- Machine Learning with Python - Cognitive Class (IBM)
-- Advanced Concepts of AI & ML - IISc
-- AWS Solutions Architect - Associate - ExcelR
-- Business Analytics using Tableau and Power BI - ExcelR
+- _Data Science Master’s Program_ - ExcelR (NASSCOM Accredited)
+- _Machine Learning with Python_ - Cognitive Class (IBM)
+- _Advanced Concepts of AI & ML_ - IISc
+- _AWS Solutions Architect - Associate_ - ExcelR
+- _Business Analytics using Tableau and Power BI_ - ExcelR
 
 ## 🔗 Connect with Me
 
