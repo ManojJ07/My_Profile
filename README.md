@@ -1,11 +1,13 @@
-👋 Hi, I'm Manoj J
+# 👋 Hi, I'm Manoj J
+
 🌟 Data Scientist | Machine Learning Enthusiast | Open Source Contributor
 
-🔍 About Me
+
+## 🔍 About Me
 
 I'm a passionate Data Scientist and Analyst with practical experience in Machine Learning, Statistical Analysis, and Data Visualization. I thrive on solving complex business problems through data-driven insights and have a strong analytical skill set. My background includes a variety of internships and projects where I have successfully applied my skills in machine learning, natural language processing, and data analytics to deliver impactful results.
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 - Graduate Trainee, Bharat Electronics Limited (Nov 2023 – Present)
 
@@ -26,13 +28,13 @@ Created an AWS Lambda solution to optimize EC2 usage, saving the company $10,000
 
 Programmed and implemented software solutions for embedded devices, enhancing system performance and reliability.
 
-📚 Education
+## 📚 Education
 
 Bachelor’s in Engineering (CSE), Sambhram Institute of Technology (VTU) (2018 – 2022)
 
 CGPA: 7.55
 
-💡 Skills
+## 💡 Skills
 
 - Programming Languages: Python, R, MySQL
 - Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
@@ -41,7 +43,7 @@ CGPA: 7.55
 - Statistical Analysis: Regression, Classification, Clustering, Deep Learning
 
 
-📈 Certifications & Courses
+## 📈 Certifications & Courses
 
 - Data Science Master’s Program - ExcelR (NASSCOM Accredited)
 - Machine Learning with Python - Cognitive Class (IBM)
@@ -49,13 +51,15 @@ CGPA: 7.55
 - AWS Solutions Architect - Associate - ExcelR
 - Business Analytics using Tableau and Power BI - ExcelR
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 
-LinkedIn: Manoj J
-GitHub: ManojJ07
+LinkedIn: [Manoj J](https://in.linkedin.com/in/manoj-j-a020681a2)
+
+GitHub: [ManojJ07](https://github.com/ManojJ07)
+
 Email: imjmanoj@gmail.com
 
-🌟 Interests
+## 🌟 Interests
 
 I enjoy working on innovative projects that leverage data to drive decision-making. I'm particularly interested in machine learning, natural language processing, and cloud computing. When I'm not coding, I love exploring new technologies and contributing to open source projects.
 
