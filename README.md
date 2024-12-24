@@ -9,7 +9,7 @@ I'm a passionate Data Scientist and Analyst with practical experience in Machine
 
 ## 💼 Professional Experience
 
-##### Graduate Trainee, Bharat Electronics Limited (November 2023 – Present)
+##### Graduate Trainee, Bharat Electronics Limited (November 2023 – November 2024)
 
   - Conducted comprehensive data analysis on training program attendees using Excel, identifying attendance patterns, participant demographics, and feedback trends to provide actionable insights for program enhancement.
   - Utilized Excel's advanced functions and features to analyze and visualize data, delivering insights that improved program engagement by the organization.
